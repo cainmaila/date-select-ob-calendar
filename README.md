@@ -2,6 +2,10 @@
 
 這是一個日歷範本，他使用了 [DeteSelectOb](https://www.npmjs.com/package/date-select-ob) 作為資料基底
 
+## DEMO
+
+https://cainmaila.github.io/date-select-ob-calendar/
+
 ## Build Setup
 
 ```bash
